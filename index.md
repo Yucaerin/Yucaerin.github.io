@@ -75,7 +75,6 @@ layout: default
 
 - 🐙 GitHub: [@Yucaerin](https://github.com/Yucaerin)
 - 📧 Email: [yucaerin@hotmail.com](mailto:yucaerin@hotmail.com)
-- 🌐 Website: [reggiocal.it](https://www.reggiocal.it)
 
 ---
 
