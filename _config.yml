@@ -2,8 +2,8 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: Yucaerin
-description: Security Researcher | CVE Hunter | Bug Bounty
+title: Yu Yucaerin
+description: Wandering Code Sorceress | Professional Sleeper | CVE Diver
 
 show_downloads: true
 
