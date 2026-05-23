@@ -1,3 +1,12 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
 title: Yucaerin
-description: Security Researcher & Developer
-theme: jekyll-theme-hacker
+description: Security Researcher | CVE Hunter | Bug Bounty
+
+show_downloads: true
+
+# Optional: Social links
+github:
+  is_project_page: false
