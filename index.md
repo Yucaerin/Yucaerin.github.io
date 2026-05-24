@@ -18,6 +18,7 @@ layout: default
 
 | CVE | Target | Vulnerability | CVSS |
 |-----|--------|-------------|------|
+| [CVE-2026-6279](https://github.com/Yucaerin/CVE-2026-6279) | Avada Builder <= 3.15.2 | Unauthenticated RCE | 9.8 |
 | [CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181) | Burst Statistics 3.4.0-3.4.1.1 | Auth Bypass → Admin Takeover | 9.8 |
 | [CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118) | Divi Form Builder ≤ 5.1.2 | Privilege Escalation via Role Injection | 9.8 |
 | [CVE-2026-3584](https://github.com/Yucaerin/CVE-2026-3584) | Kali Forms ≤ 2.4.9 | Unauthenticated RCE | 9.8 |
