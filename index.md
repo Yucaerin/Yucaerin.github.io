@@ -40,7 +40,7 @@ layout: default
 
 | Repo | Description | Lang |
 |------|-------------|------|
-| [AIOSEO-Unauthenticated-Arbitrary-Plugin-Installation](https://github.com/Yucaerin/AIOSEO-All-in-One-SEO-Pack-Unauthenticated-Arbitrary-Plugin-Installation) | AIOSEO Unauthenticated Arbitrary Plugin Installation | PY |
+| [AIOSEO-Unauthenticated-Arbitrary-Plugin-Installation](https://github.com/Yucaerin/AIOSEO-All-in-One-SEO-Pack-Unauthenticated-Arbitrary-Plugin-Installation) | AIOSEO Unauthenticated Arbitrary Plugin Installation | Python |
 | [appdevsx-File-Upload](https://github.com/Yucaerin/appdevsx-File-Upload) | AppDevSX File Upload Exploit | PHP |
 | [Xsender](https://github.com/Yucaerin/Xsender) | Arbitrary File Upload via Support Ticket | - |
 | [ApexForum](https://github.com/Yucaerin/ApexForum) | File Upload to RCE | - |
