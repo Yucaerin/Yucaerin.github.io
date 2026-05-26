@@ -36,10 +36,11 @@ layout: default
 | [CVE-2025-4403](https://github.com/Yucaerin/CVE-2025-4403) | Drag & Drop File Upload ≤ 1.1.6 | Unauthenticated Arbitrary File Upload | - |
 | [CVE-2024-55555](https://github.com/Yucaerin/CVE-2024-55555) | Laravel Crypto Killer | Mass Scanner | - |
 
-## 🛠️ Security Tools & Exploits
+## 🛠️ Security Tools, Exploits And Research
 
 | Repo | Description | Lang |
 |------|-------------|------|
+| [AIOSEO-Unauthenticated-Arbitrary-Plugin-Installation](https://github.com/Yucaerin/AIOSEO-All-in-One-SEO-Pack-Unauthenticated-Arbitrary-Plugin-Installation) | AIOSEO Unauthenticated Arbitrary Plugin Installation | PY |
 | [appdevsx-File-Upload](https://github.com/Yucaerin/appdevsx-File-Upload) | AppDevSX File Upload Exploit | PHP |
 | [Xsender](https://github.com/Yucaerin/Xsender) | Arbitrary File Upload via Support Ticket | - |
 | [ApexForum](https://github.com/Yucaerin/ApexForum) | File Upload to RCE | - |
