@@ -18,6 +18,7 @@ layout: default
 
 | CVE | Target | Vulnerability | CVSS |
 |-----|--------|-------------|------|
+| [CVE-2025-6254](https://github.com/Yucaerin/CVE-2025-6254) | Doctreat Core <= 1.6.8 | Unauthenticated Privilege | 9.8 |
 | [CVE-2026-6279](https://github.com/Yucaerin/CVE-2026-6279) | Avada Builder <= 3.15.2 | Unauthenticated RCE | 9.8 |
 | [CVE-2026-8181](https://github.com/Yucaerin/CVE-2026-8181) | Burst Statistics 3.4.0-3.4.1.1 | Auth Bypass → Admin Takeover | 9.8 |
 | [CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118) | Divi Form Builder ≤ 5.1.2 | Privilege Escalation via Role Injection | 9.8 |
