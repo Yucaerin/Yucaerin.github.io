@@ -14,6 +14,10 @@ layout: default
 - 🎌 Anime, manga, games, and late-night coffee addict
 - 💻 Favorite phrase: `git commit -m "yabai"`
 
+## Contact :
+- 📧 Email: yucaerin[at]hotmail.com
+- 💬 Discord: khunerable
+
 ## 🔥 CVEs Discovered
 
 | CVE | Target | Vulnerability | CVSS |
