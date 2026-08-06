@@ -14,7 +14,7 @@ layout: default
 - 🎌 Anime, manga, games, and late-night coffee addict
 - 💻 Favorite phrase: `git commit -m "yabai"`
 
-## Contact :
+## 📫 Contact :
 - 📧 Email: yucaerin[at]hotmail.com
 - 💬 Discord: khunerable
 
@@ -77,11 +77,6 @@ layout: default
 | ✨ JavaScript Magic | 🔥🔥 |
 | 🐍 Python Alchemy | 🔥🔥 |
 | 🐘 PHP Ninjutsu | 🔥🔥 |
-
-## 📫 Contact
-
-- 🐙 GitHub: [@Yucaerin](https://github.com/Yucaerin)
-- 📧 Email: [yucaerin@hotmail.com](mailto:yucaerin@hotmail.com)
 
 ---
 
