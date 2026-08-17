@@ -45,7 +45,7 @@ layout: default
 
 | Repo | Description | Lang |
 |------|-------------|------|
-| [Responsive-FileManager-9.14.0](https://github.com/Yucaerin/Responsive-FileManager-9.14.0) | Python | Authenticated RCE via save_img Path Traversal + Arbitrary File Write |
+| [Responsive-FileManager-9.14.0](https://github.com/Yucaerin/Responsive-FileManager-9.14.0) | Authenticated RCE via save_img Path Traversal + Arbitrary File Write | Python |
 | [AIOSEO-Unauthenticated-Arbitrary-Plugin-Installation](https://github.com/Yucaerin/AIOSEO-All-in-One-SEO-Pack-Unauthenticated-Arbitrary-Plugin-Installation) | AIOSEO Unauthenticated Arbitrary Plugin Installation | Python |
 | [appdevsx-File-Upload](https://github.com/Yucaerin/appdevsx-File-Upload) | AppDevSX File Upload Exploit | PHP |
 | [Xsender](https://github.com/Yucaerin/Xsender) | Arbitrary File Upload via Support Ticket | - |
