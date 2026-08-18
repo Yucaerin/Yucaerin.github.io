@@ -45,6 +45,7 @@ layout: default
 
 | Repo | Description | Lang |
 |------|-------------|------|
+| [Perfex CRM <= 3.4.x](https://github.com/Yucaerin/Perfex-CRM-3.4.x-Unauthenticated-RCE-via-Cookie-Deserialization) | Perfex CRM <= 3.4.x — Unauthenticated RCE via Cookie Deserialization | Python |
 | [Perfex CRM <= 3.4.x](https://github.com/Yucaerin/Perfex-CRM-3.4.x-Unauthenticated-RCE-via-Migration-SQLi-Arbitrary-File-Upload) | Perfex CRM <= 3.4.x — Unauthenticated RCE via Migration SQLi + Arbitrary File Upload | Python + PHP |
 | [Responsive-FileManager-9.14.0](https://github.com/Yucaerin/Responsive-FileManager-9.14.0) | Authenticated RCE via save_img Path Traversal + Arbitrary File Write | Python + PHP |
 | [AIOSEO-Unauthenticated-Arbitrary-Plugin-Installation](https://github.com/Yucaerin/AIOSEO-All-in-One-SEO-Pack-Unauthenticated-Arbitrary-Plugin-Installation) | AIOSEO Unauthenticated Arbitrary Plugin Installation | Python |
