@@ -45,6 +45,7 @@ layout: default
 
 | Repo | Description | Lang |
 |------|-------------|------|
+| [Vebto Platform](https://github.com/Yucaerin/Vebto-Platform-Unauthenticated-to-RCE-via-Social-Auth-Bypass-diskPrefix-Upload) | Vebto Platform — Unauthenticated to RCE via Social Auth Bypass + diskPrefix Upload | Python |
 | [Acelle Mail 4.2.0-p97](https://github.com/Yucaerin/Acelle-Mail-4.2.0-p97-Unauthenticated-SSTI-to-RCE-Chain) | Acelle Mail 4.2.0-p97 — Unauthenticated SSTI to RCE Chain | Python |
 | [Acelle Mail <= 4.0.24](https://github.com/Yucaerin/Acelle-Mail-4.0.24-Unauthenticated-Path-Traversal-to-RCE-Chain) | Acelle Mail <= 4.0.24 — Unauthenticated Path Traversal to RCE Chain | - |
 | [Perfex CRM <= 3.4.x](https://github.com/Yucaerin/Perfex-CRM-3.4.x-Unauthenticated-RCE-via-Cookie-Deserialization) | Perfex CRM <= 3.4.x — Unauthenticated RCE via Cookie Deserialization | Python |
